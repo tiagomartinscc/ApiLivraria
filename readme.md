@@ -23,7 +23,7 @@ Um livro deverá ter os seguintes campos:
 
 ---
 
-** Endpoints necessários **
+**Endpoints necessários**
 
 - Deve ser possível criar um livro;
 - Deve ser possível visualizar todos os livros que foram criados;
