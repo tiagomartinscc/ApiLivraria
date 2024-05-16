@@ -9,10 +9,7 @@ O sistema deve permitir que o usuário crie, visualize, edite e exclua livros.
 
 Bora para os requisitos desse desafio? 🚀
 
-<aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Dados e campos sugeridos
-
-</aside>
+**Dados e campos sugeridos**
 
 Um livro deverá ter os seguintes campos:
 
@@ -26,9 +23,7 @@ Um livro deverá ter os seguintes campos:
 
 ---
 
-<aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Endpoints necessários
-</aside>
+** Endpoints necessários **
 
 - Deve ser possível criar um livro;
 - Deve ser possível visualizar todos os livros que foram criados;
